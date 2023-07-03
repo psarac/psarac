@@ -1,7 +1,7 @@
 # Hi 👋, I'm Pelinsu Saraç
 
 # 💫 About Me:
-👩‍🎓 Computer Science & Engineering Student at Sabancı University<br>🌱 I’m currently learning Data Structures, Databases, Microservices<br>🧮 Looking forward to work on Machine Learning & AI projects<br>📫 How to reach me psarac@sabanciuniv.edu<br>
+👩‍🎓 Computer Science & Engineering Student at Sabancı University<br>🌱 I’m currently learning Machine Learning and Software Engineering<br>🧮 Looking forward to work on Machine Learning & AI projects<br>📫 How to reach me psarac@sabanciuniv.edu<br>
 
 
 ## 🌐 Socials:
