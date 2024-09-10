@@ -1,7 +1,7 @@
 # Hi 👋, I'm Pelinsu Saraç
 
 # 💫 About Me:
-👩‍🎓 Graduated from Computer Science & Engineering at Sabancı University<br>🌱 I’m currently a Master's Student in Carnegie Mellon University<br>🧮 Looking forward to work on Machine Learning & AI projects<br>📫 How to reach me psarac@sabanciuniv.edu<br>
+👩‍🎓 Graduated from Computer Science & Engineering at Sabancı University<br>🌱 I’m currently a Master's Student in Carnegie Mellon University<br>🧮 Looking forward to work on Machine Learning & AI projects<br>📫 How to reach me psarac@andrew.cmu.edu<br>
 
 
 ## 🌐 Socials:
